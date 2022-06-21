@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alttpr-entrance-tracker/static/css/main.df1bc7fb.css",
-    "main.js": "/alttpr-entrance-tracker/static/js/main.34179a24.js",
+    "main.css": "/alttpr-entrance-tracker/static/css/main.75dbce8f.css",
+    "main.js": "/alttpr-entrance-tracker/static/js/main.407f3544.js",
     "static/js/787.2f72e928.chunk.js": "/alttpr-entrance-tracker/static/js/787.2f72e928.chunk.js",
     "index.html": "/alttpr-entrance-tracker/index.html",
-    "main.df1bc7fb.css.map": "/alttpr-entrance-tracker/static/css/main.df1bc7fb.css.map",
-    "main.34179a24.js.map": "/alttpr-entrance-tracker/static/js/main.34179a24.js.map",
+    "main.75dbce8f.css.map": "/alttpr-entrance-tracker/static/css/main.75dbce8f.css.map",
+    "main.407f3544.js.map": "/alttpr-entrance-tracker/static/js/main.407f3544.js.map",
     "787.2f72e928.chunk.js.map": "/alttpr-entrance-tracker/static/js/787.2f72e928.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df1bc7fb.css",
-    "static/js/main.34179a24.js"
+    "static/css/main.75dbce8f.css",
+    "static/js/main.407f3544.js"
   ]
 }
